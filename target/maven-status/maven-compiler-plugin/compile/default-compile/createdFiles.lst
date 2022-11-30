@@ -1,0 +1,6 @@
+tr\com\huseyinaydin\expencetrackerapi\entity\Expense.class
+tr\com\huseyinaydin\expencetrackerapi\controller\ExpenseController.class
+tr\com\huseyinaydin\expencetrackerapi\ExpencetrackerapiApplication.class
+tr\com\huseyinaydin\expencetrackerapi\repository\ExpenseRepository.class
+tr\com\huseyinaydin\expencetrackerapi\service\ExpenseService.class
+tr\com\huseyinaydin\expencetrackerapi\service\ExpenseServiceImpl.class

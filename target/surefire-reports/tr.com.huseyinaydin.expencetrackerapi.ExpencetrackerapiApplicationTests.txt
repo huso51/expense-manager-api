@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tr.com.huseyinaydin.expencetrackerapi.ExpencetrackerapiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.578 s - in tr.com.huseyinaydin.expencetrackerapi.ExpencetrackerapiApplicationTests
